@@ -1,6 +1,6 @@
-#README
+# README
 
-##Dockerコンテナのサンプルです
+## Dockerコンテナのサンプルです
 
 ### OpenAIのAPI利用を目的としています 
 
