@@ -7,7 +7,7 @@
 >構成ファイルは最小限です
 
 
-![IMG](../src/IMGSSdd.jpg)
+![IMG](/src/IMGSSdd.jpg)
 
 
 
